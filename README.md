@@ -1,1 +1,1 @@
-shell basics
+writing scrripts on shell redirections
